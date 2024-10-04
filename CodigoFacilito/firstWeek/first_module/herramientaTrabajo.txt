@@ -1,0 +1,47 @@
+Conceptos
+     IDE 
+          Es un entorno de desarrollo integrado que funciona como un ambiente virtual en el que los programadores pueden desarrollar codigo de forma mas facil y eficiente
+     Editor de Texto
+          Software que permite crear y modificar archivos digitales compuestos unicamente por textos sin formato o archivos de texto plano 
+     Extensiones
+          Sufijo que hay despues del nombre de cada uno de nuestros archivos e indica el tipo de formato al que pertenece
+               Texto: txt, doc, docx
+               Imagen: jpg, png, svg, jpeg  
+               Video: avi, mp4, mov
+               Ejecucion: exe, bat, dll
+               Audio: mp3, wav, wma
+               Comprimido: zip, rar, tar 
+               Imagen de disco: iso, mds, img
+               Programacion: py, java, js, cpp
+     Terminal
+          Tambien llamada consola de comandos, tiene la funcionalidad basica de ingresar o mostrar datos que se encuentran dentro de una computadora o determinado sistema operativo
+     Variables de entorno y PATH
+          Estos valores hacen referencia a archivos, directorios y funciones cuya ruta concreta en el sistema puede variar
+          En el caso de los lenguajes de programacion, es muy importante verificar el PATH de los mismos para que aplicaciones como IDEs, Editores de Texto o el mismo CMD puedan acceder facilmente a ellos, esto se logra modificando el PATH de nuestra aplicacion o agregandolo a las variables del sistema en caso de que no exista
+     Extensiones de Visual Studio Code 
+          Son complementos para mejorar la experiencia en Visual Studio Code 
+     Comando
+          Un comando es un mensaje enviado a la computadora que provoca una respuesta en este sistema y se comporta como una orden, pues informa al dispositivo informatico que debe ejecutar una accion segun la indicacion que puede enviarse
+     Bug
+          Un error que recibe su nombre por un bicho que estaba atascado dentro de los mecanismos de una computadora vieja, por eso el debugging consiste en buscar errores o bichos 
+
+
+Instalacion
+Instalaremos nuestro lenguaje de programacion favorito en su pagina oficial y procederemos a asignarlo al PATH 
+Instalaremos nuestro IDE o Editor de Texto favorito y procederemos a configurarlo para nuestro programa
+
+Modificacion del editor de Texto
+En el menu de configuracion puedes realizar diversas modificaciones a tu editor
+     - Cambiar idioma
+     - Wrap text
+     - Plugins configuration
+     - Plugin PATH configuration 
+Ademas de que podemos descargar nuevas extensiones en el menu de extensiones de VSCode
+Recuerda que al instalar extensiones de lenguajes de programacion, NECESITAS INSTALAR LOS LENGUAJES DE PROGRAMACION 
+
+Probando Resultados
+     Los comandos mas usados en la terminales son:
+     cd .. (volver al folder anterior)
+     cd "nombreFolder" (abre nuestro folder que seleccionamos)
+     cls (limpia la pantalla)
+     

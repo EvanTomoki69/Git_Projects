@@ -1,0 +1,73 @@
+Que son las variables?
+Son las que almacenan el valor de los datos de un programa
+
+Reglas para escribir variables
+Hay que ser descriptivos y evitar que sean de una letra o tengan abreviaturas confusas
+bien: nombre = "Adan"
+mal: n = "Adan"
+
+Minusculas y subrayados
+Depende mucho del estilo y de la convencion de tipado, pero por normal general, las variables es mejor escribirlas en snake case, esto es, minusculas separadas por guines bajos 
+edadPromedio = 10
+edad_promedio = 10
+
+Evitar el uso de palabras reservadas 
+(porque tu programa no correra)
+def = "Hoonigan"
+sys = "System"
+
+Es recomendable el uso de mayusculas en las constantes 
+pi = 3.1416
+PI = 3.1416
+
+Hay que nombrar de forma plural listas y colecciones
+edades = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+marcas = [Ford, Ferrari, Mercedes, BMW, Nissan]
+
+
+Tipos de datos 
+     Numeros
+          int - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+          float - 3.1416, 4.2, 55.99
+          complex - 3 + 2j
+     Texto
+          String - "43", "Ingresa tu nombre: "
+     Booleanos
+          bool - True, False
+     Secuencia
+     Las listas se definen con corchetes y son mutables, sus valores pueden cambiarse con el tiempo, y pueden haber listas dentro de listas 
+          list - [1, 2, 3, 4, 5, 6, 7, 8,] ["abreviaturas", "Firma", "Firma", "Fert] ["1", "2", "3"] ["Firma", [1, 2, 3, 4, 5, 6, 7, 8], True]
+     Las tuplas definen constantes, pues son inmutables, su valor no cambia con el tiempo
+          tuple - (1, 2, 3) ("hola", "hello") (07/07/2552)
+
+Mapeo de variables 
+En Python tenemos diccionarios (dict) que nos permite mapear distintos tipos de datos que guardan valores en llaves, basicamente se pueden crear constantes para ser usadas en distintos entornos
+dict - {"key": value} {"edad": 26}
+{
+     "Adan":{
+          "edad": 26
+          "trabajo": "Pruebas Automatizadas"
+          "auto": "Cavalier"
+     }
+}
+
+Ejercicios
+Escribe un programa que pida tu edad 
+Imprime "Hola, tengo x yrs"
+Convierte los yrs a texto para imprimir
+
+Escribe un programa que pida tu edad
+Que le sumne 50 yrs 
+Imprima "Mi edad en x yrs seria x"
+Convierte los yrs a entero para sumar
+Convierte los numeros a texto para imprimir
+
+Menu restaurantre
+Pide el nombre del cliente
+Saluda al comensal
+Imprime 3 opciones de menu que son 3 variables de texto distintas
+El menu del dia de hoy es: OPCION 
+Pedir cual opcion del menu quiere que elija 
+Pedir la direccion de entrega
+Tener una variable que guarde el tiempo de entrega predeterminado 
+Imprimir Hola NOMBRE, su pedido PLATO, sera llevado en TIEMPO DE ENTREGA a DIRECCION

@@ -1,0 +1,72 @@
+Tipos de lenguajes de programacion
+Un lenguaje de programacion esta disenado con un vocabulario y un conjunto de reglas, acciones e instrucciones que un equipo informatico debe ejecutar.
+Algunos ejemplos de lenguajes de programacion son:
+PHP
+Perl 
+Java
+Visual Basic
+Javascript
+Python
+Ruby
+
+La industria es la que dicta cuales lenguajes se vuelven más populares y cuáles son desplazados de su posición
+
+Alto y Bajo nivel
+Los languajes de alto nivel son lenguajes mucho más complejos en su funcionamiento
+Son más sencillos de leer y de entender por el ser humano
+Ejemplos de estos lenguajes son:
+Java 
+Python
+Los lenguajes de bajo nivel son menos complejos en su funcionamiento 
+Pero son mas complicados de entender debido a su estructura
+Algunos ejemplos son:
+Ensamblador 
+C 
+
+Areas de programacion y sus lenguajes
+     Desarrollo front end, aplicaciones web, escritorio 
+          ALTO NIVEL 
+               Java 
+               Python
+               JS 
+               Net
+     Desarrollo de Inteligencia Artificial
+          Alto Nivel 
+               Python 
+               R 
+     Analisis e ingenieria de datos 
+          Alto nivel 
+               Python 
+               SQL 
+               R 
+     App mobile 
+          Alto nivel 
+               Dart 
+               JS 
+               Kotlin 
+               Swift 
+               Java
+
+Tipos de lenguajes de programacion
+     Compilados
+          Son traducidos directamente a machine code 
+          Mas eficientes y rapidos
+          Controlan el hardware del PC 
+          Se debe compilar el codigo cada que se quiera ejecutar
+     Interpretados
+          Ejecutan linea por linea el programa que se escribe
+          Poseen menos rendimiento 
+          Rapidez para poder realizar pruebas
+     Funcion del interprete en Python 
+          Editor 
+          Archivo fuente 
+          Correcto de sintaxis 
+          PVM 
+          Programa ejecutandose 
+     Tipos de lenguajes de programacion
+          Tipado dinamico
+               El tipo va cambiando conforme a la variable
+               Un ejemplo de esto es Python
+          Tipado estatico     
+               El tipo va ligado a la variable u objeto
+               Un ejemplo muy usado es Java 

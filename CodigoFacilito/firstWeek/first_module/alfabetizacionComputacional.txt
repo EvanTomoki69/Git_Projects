@@ -1,0 +1,75 @@
+La informatica abarca muchas ramas, una de ellas es la rama de la computacion, dentro de esta podemos encontrar a la programacion.
+Pero comunente confundimos a la informatica con programacion, o cibernetica, o telematica, y pese a que caen dentro de esta gran familia hay que hacer algunas divisiones.
+
+La computacion y la informatica NO SON lo mismo, poseen marcadas diferencias y las vamos a explorar.
+
+Informatica: Es un campo de estudio bastante grande sobre la automatizacion de la informacion e involucra muchos campos distintos
+     Tecnologias de la informacion
+          Computadoras
+          Sistemas de Almacenaje
+          Redes
+          Equipos Fisicos
+          Software
+     Cibernetica 
+          Ciencias de proveer una solucion para la generacion de un espacio virtual, como el internet
+     Robotica
+          Diseno, ensamblaje y programacion de robots
+     Computacion
+          Programacion
+     Ofimatica 
+          Oficinas virtuales
+          Oficinas tecnologicas
+          Recursos para digitalizar el trabajo de oficina 
+     Telematica
+          Telecomunicaciones
+          Servicios de telecomunicaciones
+
+La RAE define como computadora a cualquier aparato para llevar a cabo calculos matematicos, pues hasta una calculadora hace la funcion de COMPUTAR (calculos matematicos)
+
+Diferencias entre hardware y software 
+El hardware es aquello que podemos tocar con nuestras manos, una computadora posee diferentes piezas de hardware
+Para que una computadora funcione minimamente debera contar con las siguientes piezas:
+Un CPU con graficos integrados (Celeron, Core, Ryzen, Athlon)
+Enfriamiento del CPU (Por aire o liquido)
+Un stick de RAM (DDR3, DDR4)
+Una tarjeta madre (ATX, mATX, ITX)
+Memoria ROM (stick USB, o disco duro)
+Fuente de alimentacion
+
+Estos son los componentes MINIMOS para hacer que una PC funcione, aunque le puedes agregar otras como un gabinete (PC Case), ventiladores extra, una tarjeta de video dedicada, almacenamiento SSD SATA o NVME, mas discos duros, un lector y quemador de DVD, enfriamiento liquido, sensores, entre otras cosas.
+Ahora bien, hay componentes externos que permiten interactuar con la computadora y ver lo que sucede dentro de ella, por ejemplo
+Dispositivos de entrada y salida (I/O) o perifericos
+De entrada de datos
+     Webcam
+     Mouse
+     Teclado
+     Microfono
+
+De salida de datos
+     Monitor
+     Impresora
+     Bocinas
+
+Software 
+Es todo lo intangible, aquello que encontramos dentro de nuestra PC 
+Existen dos tipos de software:
+Software de Sistema (Sistemas Operativos)
+MacOS
+Linux 
+Windows
+
+Software de Aplicacion
+Zoom
+Office
+Chrome 
+Assetto Corsa 
+Cheese
+
+Cuando estamos trabajando en programacion nosotros nos centramos en trabajar con software de aplicacion
+Este tipo de software puede ser dividido en 
+Open Source
+Pago por licencia
+Software as a Service (SaaS) 
+
+Que es la programacion?
+Generar una serie de instrucciones (algoritmo) que la computadora va a ejecutar para realizar una determinada accion

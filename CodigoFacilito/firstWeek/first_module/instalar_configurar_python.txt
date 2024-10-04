@@ -1,0 +1,19 @@
+Recuerda que hay diferentes versiones de Python para instalar
+Recuerda que hay dos tipos de arquitecturas, tenlo en cuenta para instalar Python en tu computadora
+Recuerda marcar de la casilla de instalación en Terminal, para que Python se una a tu Terminal
+Recuerda escribir el comando para poder revisar la versión de tu programa instalado, esto permitirá verificar que se haya instalado correctamente
+
+Al momento de instalar un editor de texto recuerda tener en cuenta la arquitectura de tu computadora y tu sistema operativo
+Por defecto VSCode encuentra el path de Python cuando lo hemos instalado previamente, aunque hay ocasiones en las que se te solicita seleccionar el compilador de Python para poder ejecutar tu código
+Python se puede ejecutar desde VSCode mediante la instalación de la extensión para el lenguaje Python o a tráves de la terminal que viene integrada en VSCode, también puedes ejecutar tu archivo mediante la terminal de windows
+
+Comandos de VSCode
+Ctrl + b (permite colapsar el menu que se encuentra en la parte izquierda)
+Ctrl + o (permite abrir documentos del sistema)
+Ctrl + s (permite guardar nuestros cambios)
+Ctrl + n (permite crear un nuevo archivo de texto plano)
+Ctrl + l (permite seleccionar una linea)
+Ctrl + d (permite seleccionar todas las coincidencias que nosotros previamente seleccionamos en nuestro codigo)
+Ctrl + z (permite deshacer nuestros cambios)
+Ctrl + f (permite buscar una cadena de caracteres)
+Ctrl + p (permite abrir un archivo desde el mismo VSCode)

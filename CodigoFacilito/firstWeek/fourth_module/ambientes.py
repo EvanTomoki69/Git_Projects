@@ -1,0 +1,2 @@
+#Es crucial separar tus proyectos en ambientes, como este ejemplo, cada nuevo modulo esta separado por carpetas
+#Es necesario para evitar problemas a la hora de trabajar con dependencias y entornos virtuales de desarrollo, puesto que puede haber solapamiento de los entornos y dar problemas por el uso de diferentes versiones de Python o librerias

@@ -1,0 +1,27 @@
+Programar es una habilidad que comienza siendo complicada, se avanza muy lentamente y conforme se va desarrollando práctica comienza a volverse más fácil
+Se necesita de mucha disciplina y motivación pues la programación requiere de mucho esfuerzo extra, pues la programación necesita de mucho pensamiento para poder trabajar con ella.
+Sin embargo, al final es mucho más sencillo que te paguen por programar a que te paguen por jugar fúltbol, con la constancia, esfuero y dedicación encontrar un buen empleo en programación es sencillo.
+
+Qué es la programación?
+Es la tarea de procesar información con una computadora, y obtener un resultado
+Los dispositivos inteligentes, realmente no son inteligentes, los teléfonos, computadoras y dispositivos electrónicos no son inteligentes del todo, pero son buenos para seguir instrucciones, nosotros les damos un input y la máquina hace.
+Para poder comunicarnos con la máquina, necesitamos hablar con ella mediante un lenguaje de programación.
+La transformación de estas instrucciones humanas a lenguaje máquina (0, 1) participan distintas capas de abstracción.
+
+El CPU 
+Cualquier dispositivo capaz de ejecutar un programa incluye un CPU (unidad central de procesamiento) que es el encargado de ejecutar todas las órdenes.
+Este CPU sigue instrucciones en lenguaje máquina o binario, que activan o desactivan partes del procesador.
+Para el ser humano sería imposible escribir un programa complejo usando solamente el lenguaje binario, sería sumamente verboso y largo, tratar de leerlo sería complicado y tardado, es por eso que se desarrollaron los llamados lenguajes de programación.
+Conforme más entendible es el lenguaje de programación, está más lejos de la máquina, por lo que se le conoce como lenguajes de altos nivel, aquellos lenguajes que son más verbosos y complicados de entender, son denominados como lenguajes de bajo nivel.
+
+Interpretes y compiladores
+Necesitamos traducir nuestro lenguaje de programación a lenguaje máquina, para ello existen herramientas que ayudan a realizar esta traducción, un compilador es aquel traductor que realiza la traducción de nuestro código de forma anticipada para traducir todo el programa y generar uno nuevo completamente traducido.
+Mientras que si la traducción ocurre cuando el programa está operando lo llamamos interpretación.
+Para poder realizar esta traducción se establecen una serie de reglas que debemos seguir:
+
+Sintaxis
+Incluye elementos como:
+- Palabras reservadas
+- Separar declaraciones
+- Agrupar instrucciones
+- Entre otras
