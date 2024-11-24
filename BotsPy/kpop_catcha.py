@@ -59,3 +59,5 @@ actions = ActionChains(selDriver)
 # For example, hover 50 pixels to the right and 20 pixels down from the base element
 actions.move_to_element_with_offset(iframeCaptcha, 50, 20).perform()
 print("Element locked!")
+
+#Webos, no puedes saltar el captcha xD
